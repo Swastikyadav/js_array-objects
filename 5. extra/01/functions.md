@@ -23,7 +23,7 @@ Write the solution in the `main.js`
   var sheep = AnimalCreator('Cloud', 'sheep', 'You can count on me!', ['baahhh', 'arrgg', 'chewchewchew']);
   console.log(sheep);
         // { username: 'Cloud',
-        //  species: 'sheep',
+        //  species: 'sheep'  ,
         //  tagline: 'You can count on me!',
         //  noises: ['baahhh', 'arrgg', 'chewchewchew'],
         //  friends: []
